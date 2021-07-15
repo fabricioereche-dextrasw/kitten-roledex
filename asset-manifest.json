@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kitten-roledex/static/css/main.3cf19906.chunk.css",
+    "main.js": "/kitten-roledex/static/js/main.958fd236.chunk.js",
+    "main.js.map": "/kitten-roledex/static/js/main.958fd236.chunk.js.map",
+    "runtime-main.js": "/kitten-roledex/static/js/runtime-main.2751a591.js",
+    "runtime-main.js.map": "/kitten-roledex/static/js/runtime-main.2751a591.js.map",
+    "static/js/2.2853ea79.chunk.js": "/kitten-roledex/static/js/2.2853ea79.chunk.js",
+    "static/js/2.2853ea79.chunk.js.map": "/kitten-roledex/static/js/2.2853ea79.chunk.js.map",
+    "static/js/3.9e413e66.chunk.js": "/kitten-roledex/static/js/3.9e413e66.chunk.js",
+    "static/js/3.9e413e66.chunk.js.map": "/kitten-roledex/static/js/3.9e413e66.chunk.js.map",
+    "index.html": "/kitten-roledex/index.html",
+    "static/css/main.3cf19906.chunk.css.map": "/kitten-roledex/static/css/main.3cf19906.chunk.css.map",
+    "static/js/2.2853ea79.chunk.js.LICENSE.txt": "/kitten-roledex/static/js/2.2853ea79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2751a591.js",
+    "static/js/2.2853ea79.chunk.js",
+    "static/css/main.3cf19906.chunk.css",
+    "static/js/main.958fd236.chunk.js"
+  ]
+}
